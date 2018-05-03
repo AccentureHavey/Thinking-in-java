@@ -1,4 +1,4 @@
-package typeinfo;
+package src.typeinfo;
 
 class Building{}
 class House extends Building{}

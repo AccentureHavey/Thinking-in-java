@@ -1,4 +1,4 @@
-package typeinfo.pets;
+package src.typeinfo.pets;
 class Individual{
     private String id;
     public Individual(){}

@@ -1,6 +1,6 @@
-package typeinfo;
+package src.typeinfo;
 
-import typeinfo.pets.*;
+import src.typeinfo.pets.*;
 
 import java.util.HashMap;
 

@@ -1,4 +1,4 @@
-package exam2;
+package src.exam2;
 
 import java.util.ArrayList;
 import java.util.Collection;

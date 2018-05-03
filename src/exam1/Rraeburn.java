@@ -1,6 +1,6 @@
-package exam1;
+package src.exam1;
 
-import havey.Apple;
+import src.havey.Apple;
 
 public class Rraeburn extends Apple {
 }

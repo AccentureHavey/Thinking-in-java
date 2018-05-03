@@ -1,4 +1,4 @@
-package exam4;
+package src.exam4;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -10,7 +10,7 @@ public class AsListInference {
         List<Snow> snow1 = Arrays.asList(new Crusty(),new Slush(),new Powder());
 
         //won't compile:
-        List<Snow> snow2 = Arrays.asList(new Light(),new Heavy());
+       // List<Snow> snow2 = Arrays.asList(new Light(),new Heavy());
         //Compiler says:
         //found : java.util.List<Powder>
         //required ：java.util.List<Snow>

@@ -1,4 +1,4 @@
-package typeinfo;
+package src.typeinfo;
 import java.util.*;
 
 class Initable {

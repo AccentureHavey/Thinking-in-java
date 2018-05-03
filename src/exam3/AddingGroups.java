@@ -1,4 +1,4 @@
-package exam3;
+package src.exam3;
 
 import java.util.*;
 

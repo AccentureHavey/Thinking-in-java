@@ -1,4 +1,4 @@
-package exam4;
+package src.exam4;
 
 public class Light extends Powder {
 }

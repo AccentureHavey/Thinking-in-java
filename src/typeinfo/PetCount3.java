@@ -1,8 +1,8 @@
-package typeinfo;
+package src.typeinfo;
 
-import typeinfo.pets.LiteralPetCreator;
-import typeinfo.pets.Pet;
-import typeinfo.pets.Pets;
+import src.typeinfo.pets.LiteralPetCreator;
+import src.typeinfo.pets.Pet;
+import src.typeinfo.pets.Pets;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -38,5 +38,6 @@ public class PetCount3 {
             System.out.println(pet.getClass().getSimpleName() + " ");
             petCount.count(pet);
         }
+        System.out.println(petCount);
     }
 }

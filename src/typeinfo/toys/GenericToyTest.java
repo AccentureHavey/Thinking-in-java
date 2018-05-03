@@ -1,4 +1,4 @@
-package typeinfo.toys;
+package src.typeinfo.toys;
 
 public class GenericToyTest {
     public static void main(String[] args) throws Exception {

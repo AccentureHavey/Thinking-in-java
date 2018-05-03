@@ -1,4 +1,4 @@
-package typeinfo.pets;
+package src.typeinfo.pets;
 
 public class Cat extends Pet {
     public Cat(String name){super(name);}

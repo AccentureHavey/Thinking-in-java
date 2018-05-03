@@ -1,4 +1,4 @@
-package typeinfo.toys;
+package src.typeinfo.toys;
 
 interface HasBatterises{}
 interface Waterproof{}

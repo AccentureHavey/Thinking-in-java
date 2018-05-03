@@ -1,4 +1,4 @@
-package typeinfo;
+package src.typeinfo;
 
 public class GenericClassReferences {
     public static void main(String[] args){
